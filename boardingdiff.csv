@@ -1,0 +1,150 @@
+"Car","Destination","DestinationCode","DestinationName","Group","Line","LocationCode","LocationName","Min","time","timediff"
+"8","Glenmont","B11","Glenmont","1","RD","A01","Metro Center","BRD",2016-06-05 17:34:10,12.817018866539
+"6","SilvrSpg","B08","Silver Spring","1","RD","A01","Metro Center","BRD",2016-06-05 17:45:11,11.021730752786
+"8","Glenmont","B11","Glenmont","1","RD","A01","Metro Center","BRD",2016-06-05 17:52:21,7.1588050643603
+"8","Shady Gr","A15","Shady Grove","2","RD","A01","Metro Center","BRD",2016-06-05 17:41:50,4.97763683398565
+"8","Glenmont","B11","Glenmont","1","RD","A02","Farragut North","BRD",2016-06-05 17:49:55,6.79299365282059
+"6","Shady Gr","A15","Shady Grove","2","RD","A02","Farragut North","BRD",2016-06-05 17:38:57,5.49266908168793
+"8","Shady Gr","A15","Shady Grove","2","RD","A02","Farragut North","BRD",2016-06-05 17:44:04,5.10619060198466
+"6","Shady Gr","A15","Shady Grove","2","RD","A02","Farragut North","BRD",2016-06-05 17:51:16,7.19982418219248
+"8","Glenmont","B11","Glenmont","1","RD","A03","Dupont Circle","BRD",2016-06-05 17:47:59,6.35737679799398
+"6","Shady Gr","A15","Shady Grove","2","RD","A03","Dupont Circle","BRD",2016-06-05 17:40:42,5.78938889900843
+"8","Shady Gr","A15","Shady Grove","2","RD","A03","Dupont Circle","BRD",2016-06-05 17:45:33,4.85030698378881
+"6","Shady Gr","A15","Shady Grove","2","RD","A03","Dupont Circle","BRD",2016-06-05 17:53:05,7.53609079917272
+"8","Glenmont","B11","Glenmont","1","RD","A04","Woodley Park-Zoo/Adams Morgan","BRD",2016-06-05 17:45:11,6.81786690155665
+"6","SilvrSpg","B08","Silver Spring","1","RD","A04","Woodley Park-Zoo/Adams Morgan","BRD",2016-06-05 17:57:49,12.6239038983981
+"6","Shady Gr","A15","Shady Grove","2","RD","A04","Woodley Park-Zoo/Adams Morgan","BRD",2016-06-05 17:55:23,17.9644463976224
+"8","Glenmont","B11","Glenmont","1","RD","A05","Cleveland Park","BRD",2016-06-05 17:43:30,6.65817071596781
+"6","SilvrSpg","B08","Silver Spring","1","RD","A05","Cleveland Park","BRD",2016-06-05 17:56:08,12.6207599361738
+"6","Shady Gr","A15","Shady Grove","2","RD","A05","Cleveland Park","BRD",2016-06-05 17:44:36,10.4304206172625
+"8","Shady Gr","A15","Shady Grove","2","RD","A05","Cleveland Park","BRD",2016-06-05 17:49:45,5.15062716801961
+"6","Shady Gr","A15","Shady Grove","2","RD","A05","Cleveland Park","BRD",2016-06-05 17:57:15,7.4964071671168
+"8","Glenmont","B11","Glenmont","1","RD","A06","Van Ness-UDC","BRD",2016-06-05 17:41:38,6.72483615080516
+"6","SilvrSpg","B08","Silver Spring","1","RD","A06","Van Ness-UDC","BRD",2016-06-05 17:54:26,12.7954875826836
+"6","Shady Gr","A15","Shady Grove","2","RD","A06","Van Ness-UDC","BRD",2016-06-05 17:41:04,4.72914340098699
+"8","Shady Gr","A15","Shady Grove","2","RD","A06","Van Ness-UDC","BRD",2016-06-05 17:51:31,10.4554695328077
+"6","SilvrSpg","B08","Silver Spring","1","RD","A07","Tenleytown-AU","BRD",2016-06-05 17:51:56,12.3253898024559
+"8","Glenmont","B11","Glenmont","1","RD","A07","Tenleytown-AU","BRD",2016-06-05 17:56:08,4.2028373003006
+"6","Shady Gr","A15","Shady Grove","2","RD","A07","Tenleytown-AU","BRD",2016-06-05 17:43:41,3.51551280021667
+"6","Shady Gr","A15","Shady Grove","2","RD","A07","Tenleytown-AU","BRD",2016-06-05 17:48:21,4.65735746622086
+"8","Shady Gr","A15","Shady Grove","2","RD","A07","Tenleytown-AU","BRD",2016-06-05 17:54:04,5.71419141689936
+"6","SilvrSpg","B08","Silver Spring","1","RD","A08","Friendship Heights","BRD",2016-06-05 17:49:55,12.5001726667086
+"8","Glenmont","B11","Glenmont","1","RD","A08","Friendship Heights","BRD",2016-06-05 17:54:26,4.50468329985936
+"6","Shady Gr","A15","Shady Grove","2","RD","A08","Friendship Heights","BRD",2016-06-05 17:45:33,3.32893638213476
+"6","Shady Gr","A15","Shady Grove","2","RD","A08","Friendship Heights","BRD",2016-06-05 17:50:20,4.77869879802068
+"8","Shady Gr","A15","Shady Grove","2","RD","A08","Friendship Heights","BRD",2016-06-05 17:55:46,5.43730605045954
+"6","SilvrSpg","B08","Silver Spring","1","RD","A09","Bethesda","BRD",2016-06-05 17:47:01,12.2696424325307
+"8","Glenmont","B11","Glenmont","1","RD","A09","Bethesda","BRD",2016-06-05 17:51:45,4.74344983498255
+"6","Shady Gr","A15","Shady Grove","2","RD","A09","Bethesda","BRD",2016-06-05 17:48:33,27.5949610829353
+"6","Shady Gr","A15","Shady Grove","2","RD","A09","Bethesda","BRD",2016-06-05 17:52:43,4.17172954877218
+"6","SilvrSpg","B08","Silver Spring","1","RD","A10","Medical Center","BRD",2016-06-05 17:56:08,11.1357089678446
+"6","Shady Gr","A15","Shady Grove","2","RD","A10","Medical Center","BRD",2016-06-05 17:50:53,16.3436545491219
+"6","Shady Gr","A15","Shady Grove","2","RD","A10","Medical Center","BRD",2016-06-05 17:55:00,4.11088493665059
+"8","Glenmont","B11","Glenmont","1","RD","A11","Grosvenor-Strathmore","BRD",2016-06-05 17:46:16,4.62724671363831
+"6","SilvrSpg","B08","Silver Spring","1","RD","A11","Grosvenor-Strathmore","BRD",2016-06-05 17:52:21,6.08901025056839
+"6","Shady Gr","A15","Shady Grove","2","RD","A11","Grosvenor-Strathmore","BRD",2016-06-05 17:51:56,13.948132733504
+"6","Shady Gr","A15","Shady Grove","2","RD","A11","Grosvenor-Strathmore","BRD",2016-06-05 17:54:36,2.6827832976977
+"8","SilvrSpg","B08","Silver Spring","1","RD","A12","White Flint","BRD",2016-06-05 17:49:15,9.64527426958084
+"6","Shady Gr","A15","Shady Grove","2","RD","A12","White Flint","BRD",2016-06-05 17:54:36,13.910528465112
+"6","Shady Gr","A15","Shady Grove","2","RD","A12","White Flint","BRD",2016-06-05 17:57:15,2.638094886144
+"6","Shady Gr","A15","Shady Grove","2","RD","A13","Twinbrook","BRD",2016-06-05 17:57:04,14.0919488191605
+"6","Twinbrk","A13","Twinbrook","1","RD","A14","Rockville","BRD",2016-06-05 17:49:25,11.2504222830137
+"8","SilvrSpg","B08","Silver Spring","1","RD","A14","Rockville","BRD",2016-06-05 17:57:04,7.64276913404465
+"8","Shady Gr","A15","Shady Grove","2","RD","A14","Rockville","BRD",2016-06-05 17:49:55,15.0156404336294
+"6","SilvrSpg","B08","Silver Spring","1","RD","B01","Gallery Pl-Chinatown","BRD",2016-06-05 17:46:39,10.3191384673119
+"8","Glenmont","B11","Glenmont","1","RD","B01","Gallery Pl-Chinatown","BRD",2016-06-05 17:54:26,7.771182401975
+"8","Shady Gr","A15","Shady Grove","2","RD","B01","Gallery Pl-Chinatown","BRD",2016-06-05 17:40:42,5.09506835142771
+"6","Shady Gr","A15","Shady Grove","2","RD","B01","Gallery Pl-Chinatown","BRD",2016-06-05 17:47:37,6.92745483318965
+"8","Shady Gr","A15","Shady Grove","2","RD","B01","Gallery Pl-Chinatown","BRD",2016-06-05 17:57:49,10.1893482168516
+"8","Glenmont","B11","Glenmont","1","RD","B02","Judiciary Square","BRD",2016-06-05 17:56:08,18.3388886173566
+"8","Shady Gr","A15","Shady Grove","2","RD","B02","Judiciary Square","BRD",2016-06-05 17:39:36,5.23958641688029
+"6","Shady Gr","A15","Shady Grove","2","RD","B02","Judiciary Square","BRD",2016-06-05 17:46:16,6.66033860047658
+"8","Shady Gr","A15","Shady Grove","2","RD","B02","Judiciary Square","BRD",2016-06-05 17:56:43,10.45650151968
+"6","SilvrSpg","B08","Silver Spring","1","RD","B03","Union Station","BRD",2016-06-05 17:50:20,10.726650416851
+"8","Shady Gr","A15","Shady Grove","2","RD","B03","Union Station","BRD",2016-06-05 17:37:25,4.46315071980159
+"8","Shady Gr","A15","Shady Grove","2","RD","B03","Union Station","BRD",2016-06-05 17:52:53,15.4661011974017
+"6","SilvrSpg","B08","Silver Spring","1","RD","B04","Rhode Island Ave-Brentwood","BRD",2016-06-05 17:55:00,17.5790880004565
+"8","Shady Gr","A15","Shady Grove","2","RD","B04","Rhode Island Ave-Brentwood","BRD",2016-06-05 17:48:55,15.4452604134878
+"8","Shady Gr","A15","Shady Grove","2","RD","B04","Rhode Island Ave-Brentwood","BRD",2016-06-05 17:58:01,9.09938316742579
+"6","SilvrSpg","B08","Silver Spring","1","RD","B05","Brookland-CUA","BRD",2016-06-05 17:57:04,23.9351040005684
+"8","Shady Gr","A15","Shady Grove","2","RD","B05","Brookland-CUA","BRD",2016-06-05 17:46:39,9.99166084925334
+"8","Shady Gr","A15","Shady Grove","2","RD","B05","Brookland-CUA","BRD",2016-06-05 17:55:46,9.10655939976374
+"6","SilvrSpg","B08","Silver Spring","1","RD","B06","Fort Totten","BRD",2016-06-05 17:42:13,6.4321481347084
+"8","Glenmont","B11","Glenmont","1","RD","B06","Fort Totten","BRD",2016-06-05 17:48:55,6.69117952982585
+"6","Shady Gr","A15","Shady Grove","2","RD","B06","Fort Totten","BRD",2016-06-05 17:57:49,23.2661756674449
+"6","SilvrSpg","B08","Silver Spring","1","RD","B07","Takoma","BRD",2016-06-05 17:45:11,6.42906986872355
+"8","Glenmont","B11","Glenmont","1","RD","B07","Takoma","BRD",2016-06-05 17:57:15,12.0557241996129
+"8","Shady Gr","A15","Shady Grove","2","RD","B08","Silver Spring","BRD",2016-06-05 17:42:36,3.83080530166626
+"8","Shady Gr","A15","Shady Grove","2","RD","B08","Silver Spring","BRD",2016-06-05 17:55:00,12.410532283783
+"8","Shady Gr","A15","Shady Grove","2","RD","B08","Silver Spring","BRD",2016-06-05 17:55:23,23.1215038299561
+"8","Glenmont","B11","Glenmont","1","RD","B10","Wheaton","BRD",2016-06-05 17:49:25,28.4595929821332
+"6","Shady Gr","A15","Shady Grove","2","RD","B10","Wheaton","BRD",2016-06-05 17:46:16,13.1349419315656
+"6","Shady Gr","A15","Shady Grove","2","RD","B10","Wheaton","BRD",2016-06-05 17:46:39,23.8235080242157
+"6","Shady Gr","A15","Shady Grove","2","RD","B35","NoMa-Gallaudet","BRD",2016-06-05 17:42:36,6.98970293601354
+"8","Shady Gr","A15","Shady Grove","2","RD","B35","NoMa-Gallaudet","BRD",2016-06-05 17:50:53,8.29964734713237
+"6","Largo","G05","Largo Town Center","1","BL","C01","Metro Center","BRD",2016-06-05 17:53:05,17.4814661343892
+"6","Frnconia","J03","Franconia-Springfield","2","BL","C01","Metro Center","BRD",2016-06-05 17:55:23,15.0655158638954
+"6","NewCrltn","D13","New Carrollton","1","OR","C01","Metro Center","BRD",2016-06-05 17:57:15,17.6462679862976
+"6","Largo","G05","Largo Town Center","1","SV","C01","Metro Center","BRD",2016-06-05 17:55:35,18.3581924517949
+"6","Largo","G05","Largo Town Center","1","BL","C02","McPherson Square","BRD",2016-06-05 17:51:31,17.354058500131
+"6","Frnconia","J03","Franconia-Springfield","2","BL","C02","McPherson Square","BRD",2016-06-05 17:57:04,14.8414854327838
+"6","NewCrltn","D13","New Carrollton","1","OR","C02","McPherson Square","BRD",2016-06-05 17:55:35,18.1584453662237
+"6","Largo","G05","Largo Town Center","1","SV","C02","McPherson Square","BRD",2016-06-05 17:54:04,18.1173327008883
+"6","NewCrltn","D13","New Carrollton","1","OR","C03","Farragut West","BRD",2016-06-05 17:54:16,18.3275920192401
+"6","Largo","G05","Largo Town Center","1","SV","C03","Farragut West","BRD",2016-06-05 17:52:21,17.9889352679253
+"6","NewCrltn","D13","New Carrollton","1","OR","C04","Foggy Bottom-GWU","BRD",2016-06-05 17:52:21,17.9889352679253
+"6","Vienna","K08","Vienna/Fairfax-GMU","2","OR","C05","Rosslyn","BRD",2016-06-05 17:56:08,23.0028304338455
+"6","Largo","G05","Largo Town Center","1","BL","C08","Pentagon City","BRD",2016-06-05 17:57:49,19.0529737671216
+"6","Largo","G05","Largo Town Center","1","BL","C09","Crystal City","BRD",2016-06-05 17:56:08,19.0870804667473
+"6","Frnconia","J03","Franconia-Springfield","2","BL","C09","Crystal City","BRD",2016-06-05 17:57:15,16.9236139496168
+"6","Largo","G05","Largo Town Center","1","BL","C10","Ronald Reagan Washington National Airport","BRD",2016-06-05 17:54:26,19.5203237334887
+"6","Hntingtn","C15","Huntington","2","YL","C12","Braddock Road","BRD",2016-06-05 17:56:43,19.8675436695417
+"6","Hntingtn","C15","Huntington","2","YL","C13","King St-Old Town","BRD",2016-06-05 17:38:22,17.0208827177684
+"6","Largo","G05","Largo Town Center","1","BL","D01","Federal Triangle","BRD",2016-06-05 17:54:36,17.5670264641444
+"6","Frnconia","J03","Franconia-Springfield","2","BL","D01","Federal Triangle","BRD",2016-06-05 17:53:53,15.507497549057
+"6","Largo","G05","Largo Town Center","1","SV","D01","Federal Triangle","BRD",2016-06-05 17:57:04,18.49355905056
+"6","Largo","G05","Largo Town Center","1","BL","D02","Smithsonian","BRD",2016-06-05 17:38:22,17.2107968171438
+"6","Largo","G05","Largo Town Center","1","BL","D02","Smithsonian","BRD",2016-06-05 17:56:08,17.7555502176285
+"6","Largo","G05","Largo Town Center","1","BL","D07","Potomac Ave","BRD",2016-06-05 17:46:39,23.8235080242157
+"6","NewCrltn","D13","New Carrollton","1","OR","D07","Potomac Ave","BRD",2016-06-05 17:50:20,15.5872244159381
+"6","NewCrltn","D13","New Carrollton","1","OR","D08","Stadium-Armory","BRD",2016-06-05 17:52:21,15.6836126327515
+"6","Largo","G05","Largo Town Center","1","SV","D08","Stadium-Armory","BRD",2016-06-05 17:50:20,16.5454580465953
+"6","Vienna","K08","Vienna/Fairfax-GMU","2","OR","D12","Landover","BRD",2016-06-05 17:54:26,33.2666994015376
+"6","Grnbelt","E10","Greenbelt","1","GR","E01","Mt Vernon Sq 7th St-Convention Center","BRD",2016-06-05 17:54:36,20.4393600662549
+"6","Hntingtn","C15","Huntington","2","YL","E01","Mt Vernon Sq 7th St-Convention Center","BRD",2016-06-05 17:53:29,18.9298420667648
+"6","Brnch Av","F11","Branch Ave","2","GR","E02","Shaw-Howard U","BRD",2016-06-05 17:53:53,16.0908359487851
+"6","Brnch Av","F11","Branch Ave","2","GR","E03","U Street/African-Amer Civil War Memorial/Cardozo","BRD",2016-06-05 17:36:20,15.1763785322507
+"6","Brnch Av","F11","Branch Ave","2","GR","E03","U Street/African-Amer Civil War Memorial/Cardozo","BRD",2016-06-05 17:50:41,14.3490001360575
+"6","Brnch Av","F11","Branch Ave","2","GR","E04","Columbia Heights","BRD",2016-06-05 17:47:59,14.2092763145765
+"6","Brnch Av","F11","Branch Ave","2","GR","E09","College Park-U of MD","BRD",2016-06-05 17:53:41,18.7720791339874
+"6","Brnch Av","F11","Branch Ave","2","GR","F01","Gallery Pl-Chinatown","BRD",2016-06-05 17:57:15,16.1788659850756
+"6","Hntingtn","C15","Huntington","2","YL","F01","Gallery Pl-Chinatown","BRD",2016-06-05 17:55:23,18.7224336822828
+"6","Hntingtn","C15","Huntington","2","YL","F02","Archives-Navy Memorial-Penn Quarter","BRD",2016-06-05 17:56:43,18.5495308677355
+"6","Hntingtn","C15","Huntington","2","YL","F02","Archives-Navy Memorial-Penn Quarter","BRD",2016-06-05 17:57:04,20.6196329593658
+"6","Mt Vern","E01","Mt Vernon Sq 7th St-Convention Center","1","YL","F03","L'Enfant Plaza","BRD",2016-06-05 17:58:01,19.8422686815262
+"6","Hntingtn","C15","Huntington","2","YL","F03","L'Enfant Plaza","BRD",2016-06-05 17:40:10,18.8221811334292
+"6","Brnch Av","F11","Branch Ave","2","GR","F05","Navy Yard-Ballpark","BRD",2016-06-05 17:48:33,15.4277029673258
+"6","Brnch Av","F11","Branch Ave","2","GR","F06","Anacostia","BRD",2016-06-05 17:35:36,14.4406962156296
+"6","Brnch Av","F11","Branch Ave","2","GR","F06","Anacostia","BRD",2016-06-05 17:51:16,15.6610419352849
+"6","Grnbelt","E10","Greenbelt","1","GR","F07","Congress Heights","BRD",2016-06-05 17:56:08,15.9542518019676
+"6","Brnch Av","F11","Branch Ave","2","GR","F07","Congress Heights","BRD",2016-06-05 17:54:04,16.0837799151738
+"6","Grnbelt","E10","Greenbelt","1","GR","F08","Southern Avenue","BRD",2016-06-05 17:53:53,16.0908359487851
+"6","Brnch Av","F11","Branch Ave","2","GR","F08","Southern Avenue","BRD",2016-06-05 17:56:43,16.3941860834757
+"6","Grnbelt","E10","Greenbelt","1","GR","F09","Naylor Road","BRD",2016-06-05 17:51:45,16.1499419848124
+"6","Frnconia","J03","Franconia-Springfield","2","BL","G01","Benning Road","BRD",2016-06-05 17:38:34,17.0433956344922
+"6","Frnconia","J03","Franconia-Springfield","2","BL","G01","Benning Road","BRD",2016-06-05 17:57:15,18.6793263673782
+"6","Largo","G05","Largo Town Center","1","SV","G01","Benning Road","BRD",2016-06-05 17:54:26,16.2612702171008
+"6","Largo","G05","Largo Town Center","1","SV","G02","Capitol Heights","BRD",2016-06-05 17:57:04,15.9930986682574
+"6","Largo","G05","Largo Town Center","1","BL","G03","Addison Road-Seat Pleasant","BRD",2016-06-05 17:57:04,15.4274087826411
+"6","Frnconia","J03","Franconia-Springfield","2","BL","G03","Addison Road-Seat Pleasant","BRD",2016-06-05 17:52:53,18.7210116664569
+"6","Wiehle","N06","Wiehle-Reston East","2","SV","G03","Addison Road-Seat Pleasant","BRD",2016-06-05 17:57:26,17.1067245324453
+"6","Wiehle","N06","Wiehle-Reston East","2","SV","G04","Morgan Boulevard","BRD",2016-06-05 17:55:23,17.5988314151764
+"6","Largo","G05","Largo Town Center","1","SV","K03","Virginia Square-GMU","BRD",2016-06-05 17:55:23,14.5053174336751
+"6","Wiehle","N06","Wiehle-Reston East","2","SV","K03","Virginia Square-GMU","BRD",2016-06-05 17:58:01,17.6869238972664
+"6","NewCrltn","D13","New Carrollton","1","OR","K05","East Falls Church","BRD",2016-06-05 17:51:45,15.8088139851888
+"6","Vienna","K08","Vienna/Fairfax-GMU","2","OR","K05","East Falls Church","BRD",2016-06-05 17:47:26,13.9622575004896
+"6","Vienna","K08","Vienna/Fairfax-GMU","2","OR","K07","Dunn Loring-Merrifield","BRD",2016-06-05 17:39:47,18.2645553509394
+"6","Vienna","K08","Vienna/Fairfax-GMU","2","OR","K07","Dunn Loring-Merrifield","BRD",2016-06-05 17:53:29,13.6900127490362
+"6","Largo","G05","Largo Town Center","1","SV","N02","Tysons Corner","BRD",2016-06-05 17:57:15,17.458166650931
+"6","Wiehle","N06","Wiehle-Reston East","2","SV","N02","Tysons Corner","BRD",2016-06-05 17:58:01,18.4095779339472
+"6","Largo","G05","Largo Town Center","1","SV","N04","Spring Hill","BRD",2016-06-05 17:53:29,17.1398554841677
