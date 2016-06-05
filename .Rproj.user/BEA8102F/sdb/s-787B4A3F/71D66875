@@ -1,0 +1,17 @@
+{
+    "contents" : "library(jsonlite)\n\nSys.time()\n\n\nmetrodata <- data.frame()\ni <- 1\n\nwhile (i < 100) {\n  print(i)\n  i = i+1\n  newdata <- fromJSON(\"https://api.wmata.com/StationPrediction.svc/json/GetPrediction/ALL?api_key=bce6ec600e2342f28bc7751435ac0f52\")\n  x <-newdata$Trains\n  x$time <- Sys.time()\n  x <- x[which( x$Min == 'BRD'| x$Min == 'ARR'), ]\n  metrodata <- rbind(metrodata, x)\n  Sys.sleep(2)\n}\n\nresult <- metrodata[order(metrodata$LocationCode, metrodata$Line,metrodata$Group,metrodata$time),]\n\nfor i in range(len(data)):\n  item = data[i]\nbefore = i-1\nprior = data[before]\ndata[i].append(item[8]==prior[8])\n\nfor i in range(length(x)) :\n    item = data[i]\n    before = i-1\n    prior = data[before]\n    data[i].append(item[8]==prior[8])\n\nrdf <-(1:nrow(df))\n\ndata$newcolumn <- 0\n\nfor (i in 1:nrow(data)) {\n  n <- power.prop.test( p1 = data[i,5], p2 = data[i,6], sig.level=.1, power = .8, alternative = \"one.sided\")\n  data$newcolumn[i] <- n\n}\nhead(data)\n\ndf$check <-0\n  \nfor (number in rdf){x <- df[number,9]==df[number-1,9]}\n\nfor (number in rdf){print(number-1)}\n\nx$`1`[10]==x$`2`[10]\n\ndlply(df,.(id),c)\nxy.list <- split(df, seq(nrow(df)))\n\n",
+    "created" : 1465075138567.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3539338972",
+    "id" : "71D66875",
+    "lastKnownWriteTime" : 1465161198,
+    "path" : "~/wmata_wait/metrocode.R",
+    "project_path" : "metrocode.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

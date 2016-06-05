@@ -1,0 +1,9 @@
+{
+    "path" : "~/wmata_wait",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
